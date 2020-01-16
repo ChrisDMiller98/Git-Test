@@ -23,6 +23,7 @@ namespace Git_Project
         public MainWindow()
         {
             InitializeComponent();
+            Console.WriteLine("Hello World!");
         }
     }
 }
